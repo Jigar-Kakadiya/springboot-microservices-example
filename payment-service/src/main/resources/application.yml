@@ -1,0 +1,11 @@
+server:
+  port: 9192
+spring:
+  h2:
+    console:
+      enabled: true
+  application:
+    name: PAYMENT-SERVICE
+logging:
+  file:
+    name: C:\Users\admin\logs\microservices.log
